@@ -1,4 +1,4 @@
-**Optimizing Revenue Leakage & Profitability in the Hospitality Sector**
+****Optimizing Revenue Leakage & Profitability in the Hospitality Sector****
 
 A consulting-style analytics project conducted under the mentorship of the Consulting & Analytics Club, IIT Guwahati, aimed at solving real business challenges in the hospitality sector. The goal: identify revenue leakages, analyze guest behavior, and recommend high-ROI strategies using hotel booking data from 7 properties (134K+ records).
 
