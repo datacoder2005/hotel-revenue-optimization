@@ -15,6 +15,7 @@ Simulated 3 business strategies using What-If Analysis
 Quantified cancellation loss & OTA margin gaps
 
 Outcome
+
 • ₹33.3M/month projected revenue uplift
 • +1.95% ROI impact
 • ~1 month payback for all strategies
